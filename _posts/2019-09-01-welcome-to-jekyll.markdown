@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Welcome to Gerald Haslhofer's blog!"
 date:   2019-09-01 14:40:29 -0700
 categories: random
 ---
