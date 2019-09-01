@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Hello World2"
 date:   2019-09-01 14:40:29 -0700
 categories: random
 ---
-Hello World!
+Hello World2!
 
 {% highlight ruby %}
 def print_hi(name)
