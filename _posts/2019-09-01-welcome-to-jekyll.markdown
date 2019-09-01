@@ -7,4 +7,5 @@ categories: random
 Welcome to Gerald Haslhofer's blog
 
 You can find me on [Linkedin][linkedin] for
-[linkedin]: www.linkedin.com/in/gerald-haslhofer-57582a
+
+[linkedin]: https://www.linkedin.com/in/gerald-haslhofer-57582a
