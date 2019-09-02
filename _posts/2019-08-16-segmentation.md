@@ -45,3 +45,6 @@ Segment the screen / disambiguate areas of interest
 
 **Document structure. Figure out which input elements belong to which text elements**  
 [Semantics of words - Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 
+
+
+![useful image]({{ site.url }}/assets/ml.png)
