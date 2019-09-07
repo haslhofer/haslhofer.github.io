@@ -1,16 +1,53 @@
 ---
 layout: post
-title:  "Accumulated experience of social living"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Image segmentation: resources"
+author: gerald
+categories: [ ml, rpa ]
 image: assets/images/15.jpg
 ---
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Segment the screen / disambiguate areas of interest
+---
 
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+**Intros**
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+* [Segmantic segementation](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
+* [Deeplearning intro on TowardsDataScience](https://towardsdatascience.com/semantic-segmentation-with-deep-learning-a-guide-and-code-e52fc8958823)
+* [Deeplearning intro on Medium ](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef) 
+* [Mobile Real-time Video Segmentation](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html) 
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+**Specific algorithms**
+
+**Deeplab**
+* [Tensorflow-deeplab-v3-plus](https://github.com/rishizek/tensorflow-deeplab-v3-plus)
+* [Google TPU tutorial on deeplab](https://cloud.google.com/tpu/docs/tutorials/deeplab)
+* [Tensorflow deeplab readme](https://github.com/tensorflow/tpu/blob/master/models/experimental/deeplab/README.md)
+* [Towardsdatascience.com The evolution of deeplab for semantic segmentation](https://towardsdatascience.com/the-evolution-of-deeplab-for-semantic-segmentation-95082b025571)
+* [How to use deeplab in tensorflow for object segmentation](https://www.freecodecamp.org/news/how-to-use-deeplab-in-tensorflow-for-object-segmentation-using-deep-learning-a5777290ab6b/)
+* [Semantic image segmentation with DeepLab in Tensorflow](https://ai.googleblog.com/2018/03/semantic-image-segmentation-with.html)
+
+**Convolutional networks** 
+* [Fully convolutional networks for semantic segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
+* [CNNs with skip connections](https://github.com/jiny2001/dcscn-super-resolution) 
+* [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) 
+* [U-Net for satellite images](https://deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/) 
+* [Mask R-CNN, extends Faster R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
+* [Facebookresearch maskrcnn benchmark](https://github.com/facebookresearch/maskrcnn-benchmark?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more)
+* [Mask R-CNN implementation](https://hackernoon.com/instance-segmentation-in-google-colab-with-custom-dataset-b3099ac23f35) 
+
+**GAN**
+* [GAN: Pix2Pix](https://phillipi.github.io/pix2pix/)
+* [Pix2Pix turorial](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/pix2pix.ipynb#scrollTo=YfIk2es3hJEd)
+* [Original Pix2Pix paper](https://arxiv.org/pdf/1611.07004.pdf)  
+
+**YoloV3**
+* [YoloV3](https://pjreddie.com/darknet/yolo/)
+* [Review yolov3 you-only-look-once-object-detection](https://towardsdatascience.com/review-yolov3-you-only-look-once-object-detection-eab75d7a1ba6)
+* [YoloV3 paper on arxiv](https://arxiv.org/abs/1804.02767)  
+
+
+**Document structure. Figure out which input elements belong to which text elements**  
+[Semantics of words - Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 
+
+
+![useful image]({{ site.url }}/assets/ml.png)
