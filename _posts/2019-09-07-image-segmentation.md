@@ -3,7 +3,7 @@ layout: post
 title:  "Image segmentation: resources"
 author: gerald
 categories: [ ml, rpa ]
-image: assets/images/15.jpg
+image: assets/images/landscape7.jpg
 ---
 
 Segment the screen / disambiguate areas of interest
