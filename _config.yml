@@ -22,7 +22,7 @@ authors:
     gerald:
       name:           Gerald Haslhofer
       site:           https://www.linkedin.com/in/gerald-haslhofer-57582a/
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Gerald, the author of this blog. I hope you like it!"
       email:          haslhofer@outlook.com
       twitter:        https://twitter.com/atgerhas
@@ -38,7 +38,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
