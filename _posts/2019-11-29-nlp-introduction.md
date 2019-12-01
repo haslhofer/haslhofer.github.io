@@ -13,7 +13,17 @@ Natural language processing - introduction  and state-of-the-art
 * Overview / [ImageNet moment in NLP](https://ruder.io/nlp-imagenet/)
 
 * *Embeddings*: 
-First step often is turning input words into vectors using embeddings (see. e.g. [here](https://machinelearningmastery.com/what-are-word-embeddings/) for an explanation of word embeddings). These vectos capture some semantics (king-man+woman=queen). These vectors are somewhere in the 200-300 dimensions range. Embedding explanation with Word2Vec focus on [medium](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca)
+First step often is turning input words into vectors using embeddings (see. e.g. [here](https://machinelearningmastery.com/what-are-word-embeddings/) for an explanation of word embeddings). These vectos capture some semantics (king-man+woman=queen). These vectors are somewhere in the 200-300 dimensions range.   
+
+  *Non-contextual embeddings*
+
+  Embedding explanation with Word2Vec focus on [medium](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca). Key constraint of Word2Vec is that it doesn't capture multiple interpretations of a single word ("stick").
+  * Word2Vec - generate your own - [Google project](https://code.google.com/archive/p/word2vec/)
+  * GloVe. 
+
+  *Contextualized embeddings*
+
+  Contextualized word embeddings factor in multiple interpretations of words. ELMo uses bi-directional LSTM to create embeddings based on the context of words. 
 * Video about using sentence embedding [for fact checking](https://www.youtube.com/watch?v=ddf0lgPCoSo)
 
 * *Attention* [overview](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) and original paper ["Attention is all you need"](https://arxiv.org/pdf/1706.03762.pdf). Basic premise is that enabling the neural network to pay attention to a specific subset of hidden states leads to better results.
@@ -28,7 +38,7 @@ Transformer [introduction](https://ai.googleblog.com/2017/08/transformer-novel-n
 **BERT et.al.**  
 Basic premise: semi-supervised training on large amounts of text to build model. Then supervised training with specific labeled data set. Key concepts applied: semi-supervised sequence learning; Transformers; ELMo (tbd), ULMFiT (tbd)   
 Simplest model: train a binary classifier with (1) BERT --> (2) Feed-forward neural network + softmax. 
-BERT model is modified only slightly during the training phase.  
+BERT model is modified only slightly during the training phase (details in the great article [here](https://jalammar.github.io/illustrated-bert/) )
 * [BERT original paper](https://arxiv.org/pdf/1810.04805.pdf)
 * Illustrated BERT, [great explanation](https://jalammar.github.io/illustrated-bert/) 
 
