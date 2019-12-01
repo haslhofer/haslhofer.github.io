@@ -9,6 +9,8 @@ image: assets/images/landscape7.jpg
 Natural language processing - introduction  and state-of-the-art
 ---
 
+This post provides a summary of introductory articles I found useful to better understand what's possible in NLP, specifically what the current state of the art is and what areas should be prioritized for future explorations.
+
 **NLP - Basics**
 * Overview / [ImageNet moment in NLP](https://ruder.io/nlp-imagenet/)
 
