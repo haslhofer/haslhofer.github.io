@@ -58,7 +58,7 @@ Basic premise: semi-supervised training on large amounts of text to build model.
 
 Bert is pre-trained with two tasks: (1) predict missing word (2) figure out if sentence A follows sentence B
 
-Predict missing workd: masked language input (replace 15% of input with [Mask] keyword).
+Predict missing words: masked language input (replace 15% of input with [Mask] keyword).
 
 Two-sentence task: predict if sentence A follows sentence B. 
 Other notes: BERT doesn't use words, but WordPieces which are smaller chunks.
@@ -71,6 +71,7 @@ Once BERT is pre-trained, it can be combined with supervised training with speci
 Simplest model: train a binary classifier with (1) BERT --> (2) Feed-forward neural network + softmax. 
 BERT model is modified only slightly during the training phase (details in the great article [here](https://jalammar.github.io/illustrated-bert/) )
 * Interactive BERT in [Google Colab](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb) with specific language tasks 
+* BERT and [Semantic Similarity in Sentences](https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8d34f5a4677) on Medium  
 
 
 **Implementation**
