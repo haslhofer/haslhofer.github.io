@@ -16,7 +16,7 @@ This post provides a summary of introductory articles I found useful to better u
 
 **Embeddings**
 
-First step often is turning input words into vectors using embeddings (see. e.g. [here](https://machinelearningmastery.com/what-are-word-embeddings/) for an explanation of word embeddings). These vectos capture some semantics (king-man+woman=queen). These vectors are somewhere in the 200-300 dimensions range.   
+First step often is turning input words into vectors using embeddings (see. e.g. [here](https://machinelearningmastery.com/what-are-word-embeddings/) for an explanation of word embeddings). These vectors capture some semantics (king-man+woman=queen). These vectors are somewhere in the 200-300 dimensions range.   
 
   *Non-contextual embeddings*
 
@@ -35,7 +35,7 @@ First step often is turning input words into vectors using embeddings (see. e.g.
 
 **Transformers**
 
-* Basics - *Transformer* Great high level [overview](http://jalammar.github.io/illustrated-transformer/). Originally intorduced in ["Attention is all you need"](https://arxiv.org/pdf/1706.03762.pdf).  
+* Basics - *Transformer* Great high level [overview](http://jalammar.github.io/illustrated-transformer/). Originally introduced in ["Attention is all you need"](https://arxiv.org/pdf/1706.03762.pdf).  
 Fully annotated code to the paper from Harvard NLP group is [here](http://nlp.seas.harvard.edu/2018/04/03/attention.html).  
 And [Tensorflow library tensor2tensor](https://github.com/tensorflow/tensor2tensor). Interactive tensor2tensor on [Google Colab](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb).   
 Hugging Face Transformer [quick tutorial](https://github.com/huggingface/transformers)  
@@ -71,6 +71,9 @@ Once BERT is pre-trained, it can be combined with supervised training with speci
 Simplest model: train a binary classifier with (1) BERT --> (2) Feed-forward neural network + softmax. 
 BERT model is modified only slightly during the training phase (details in the great article [here](https://jalammar.github.io/illustrated-bert/) )
 * Interactive BERT in [Google Colab](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb) with specific language tasks 
+
+* BERT and [Binary classification](https://towardsdatascience.com/how-to-do-text-binary-classification-with-bert-f1348a25d905)
+
 * BERT and [Semantic Similarity in Sentences](https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8d34f5a4677) on Medium  
 
 
