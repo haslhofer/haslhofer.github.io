@@ -76,6 +76,14 @@ BERT model is modified only slightly during the training phase (details in the g
 
 * BERT and [Semantic Similarity in Sentences](https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8d34f5a4677) on Medium  
 
+**Extensions of BERT**
+
+* VideoBERT: A joint model for video and language representation learning [Sep 2019]. Uses pre-trained video ConvNet (TBD) to extract features - in their example S3D (TBD) - separable temporal convolutions to an Inception network backbone (TBD). Further reading:   
+
+  *Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet,
+Scott E. Reed, Dragomir Anguelov, Dumitru Erhan, Vincent
+Vanhoucke, and Andrew Rabinovich. Going deeper with
+convolutions. arXiv preprint arXiv:1409.4842, 2014.*
 
 **Implementation**
 * Getting a big model into [production](https://medium.com/huggingface/scaling-a-massive-state-of-the-art-deep-learning-model-in-production-8277c5652d5f)
@@ -84,4 +92,4 @@ BERT model is modified only slightly during the training phase (details in the g
 * Learning course for [GAN](https://developers.google.com/machine-learning/gan/) from Google
 
 **Data-sets**
-* Stanford [sentiment data set](https://nlp.stanford.edu/sentiment/) 
+* Stanford [sentiment data set](https://nlp.stanford.edu/sentiment/)  
