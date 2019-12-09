@@ -11,10 +11,10 @@ Natural language processing - introduction  and state-of-the-art
 
 This post provides a summary of introductory articles I found useful to better understand what's possible in NLP, specifically what the current state of the art is and what areas should be prioritized for future explorations.
 
-**NLP - Basics**
+## NLP - Basics
 * Overview / [ImageNet moment in NLP](https://ruder.io/nlp-imagenet/)
 
-**Embeddings**
+## Embeddings
 
 First step often is turning input words into vectors using embeddings (see. e.g. [here](https://machinelearningmastery.com/what-are-word-embeddings/) for an explanation of word embeddings). These vectors capture some semantics (king-man+woman=queen). These vectors are somewhere in the 200-300 dimensions range.   
 
@@ -29,11 +29,11 @@ First step often is turning input words into vectors using embeddings (see. e.g.
   Contextualized word embeddings factor in multiple interpretations of words. ELMo uses bi-directional LSTM to create embeddings based on the context of words. 
 * Video about using sentence embedding [for fact checking](https://www.youtube.com/watch?v=ddf0lgPCoSo)
 
-**Attention** 
+## Attention 
 
 [Overview](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) and original paper ["Attention is all you need"](https://arxiv.org/pdf/1706.03762.pdf). Basic premise is that enabling the neural network to pay attention to a specific subset of hidden states leads to better results.
 
-**Transformers**
+## Transformers
 
 * Basics - *Transformer* Great high level [overview](http://jalammar.github.io/illustrated-transformer/). Originally introduced in ["Attention is all you need"](https://arxiv.org/pdf/1706.03762.pdf).  
 Fully annotated code to the paper from Harvard NLP group is [here](http://nlp.seas.harvard.edu/2018/04/03/attention.html).  
@@ -80,16 +80,16 @@ BERT model is modified only slightly during the training phase (details in the g
 
 * VideoBERT: A joint model for video and language representation learning [Sep 2019]. Uses pre-trained video ConvNet (TBD) to extract features - in their example S3D (TBD) - separable temporal convolutions to an Inception network backbone (TBD). Further reading:   
 
-  *Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet,
+  `Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet,
 Scott E. Reed, Dragomir Anguelov, Dumitru Erhan, Vincent
 Vanhoucke, and Andrew Rabinovich. Going deeper with
-convolutions. arXiv preprint arXiv:1409.4842, 2014.*
+convolutions. arXiv preprint arXiv:1409.4842, 2014.`
 
-**Implementation**
+## Implementation
 * Getting a big model into [production](https://medium.com/huggingface/scaling-a-massive-state-of-the-art-deep-learning-model-in-production-8277c5652d5f)
 
-**Self improvement / learning**
+## Self improvement / learning
 * Learning course for [GAN](https://developers.google.com/machine-learning/gan/) from Google
 
-**Data-sets**
+## Data-sets
 * Stanford [sentiment data set](https://nlp.stanford.edu/sentiment/)  
