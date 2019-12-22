@@ -24,6 +24,7 @@ Step 1: Setup
 * Create directory, start Visual Studio Code (```cd dir; code .```)
 * Select environment: CTRL+SHIFT+P,  "Python: Select Interpreter"
 * Create a terminal window: CTRL+SHIFT+P, "Terminal: Create New Integrated Terminal"
+* Install tensorflow GPU (with Conda). New Command Window. ```conda install tensorflow-gpu```  (Conda is preinstalled)
 
 Step 2: Follow tutorial
 ---
@@ -31,4 +32,14 @@ Step 2: Follow tutorial
 * Tutorial 1: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
 * Tutorial 2: Intent classification https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03. Our choice.
 
+Make sure the GPU works for tensorflow
 
+```
+# verify GPU availability
+import tensorflow as tf
+
+device_name = tf.test.gpu_device_name()
+if device_name != '/device:GPU:0':
+  raise SystemError('GPU device not found')
+print('Found GPU at: {}'.format(device_name))
+```
