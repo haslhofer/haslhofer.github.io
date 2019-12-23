@@ -31,6 +31,7 @@ Step 2: Follow tutorial
 
 * Tutorial 1: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
 * Tutorial 2: Intent classification https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03. Our choice.
+* Tutorial 3: https://github.com/huggingface/transformers
 
 Make sure the GPU works for tensorflow
 
