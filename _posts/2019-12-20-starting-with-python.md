@@ -32,6 +32,9 @@ Step 2: Follow tutorial
 * Tutorial 1: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
 * Tutorial 2: Intent classification https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03. Our choice.
 * Tutorial 3: https://github.com/huggingface/transformers
+* Tutorial 4: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
+* Tutorial 5: http://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+* Tutorial 6: https://github.com/hanxiao/bert-as-service
 
 Make sure the GPU works for tensorflow
 
@@ -44,3 +47,22 @@ if device_name != '/device:GPU:0':
   raise SystemError('GPU device not found')
 print('Found GPU at: {}'.format(device_name))
 ```
+
+
+Other notes
+---
+Conda and Pip coexistence: 
+https://www.anaconda.com/using-pip-in-a-conda-environment/
+
+* Create new environment with Conda so you control the right version of e.g. Tensorflow 
+
+``` 
+conda create environname
+conda activate environname
+
+```
+
+Bert-as-service exploration
+---
+
+bert-serving-start -model_dir c:\users\gerhas\code\python\uncased_L-12_H-768_A-12 -num_worker=4
