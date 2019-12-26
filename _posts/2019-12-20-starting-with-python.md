@@ -86,6 +86,10 @@ https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zi
  C:\Users\gerhas\code\python\uncased_L-12_H-768_A-12
 ```
 
+Start the BERT server component
+```
+bert-serving-start -model_dir c:\users\gerhas\code\python\uncased_L-12_H-768_A-12 -num_worker=4
+```
 
 
 Other notes
@@ -94,4 +98,3 @@ Other notes
 Bert-as-service exploration
 ---
 
-bert-serving-start -model_dir c:\users\gerhas\code\python\uncased_L-12_H-768_A-12 -num_worker=4
