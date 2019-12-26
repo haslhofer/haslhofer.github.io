@@ -10,7 +10,13 @@ image: assets/images/landscape3.jpg
 Reproducing BERT training for text classification
 ---
 
-Step 1: Setup
+Step 0: Understand what BERT is
+---
+
+See https://haslhofer.github.io/nlp-introduction/, section "Transformers".
+
+
+Step 1: Setup on Surface Book (which has GPU)
 ---
 
 **Tutorial**
@@ -26,15 +32,16 @@ Step 1: Setup
 * Create a terminal window: CTRL+SHIFT+P, "Terminal: Create New Integrated Terminal"
 * Install tensorflow GPU (with Conda). New Command Window. ```conda install tensorflow-gpu```  (Conda is preinstalled)
 
-Step 2: Follow tutorial
----
+Conda and Pip coexistence: 
+https://www.anaconda.com/using-pip-in-a-conda-environment/
 
-* Tutorial 1: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
-* Tutorial 2: Intent classification https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03. Our choice.
-* Tutorial 3: https://github.com/huggingface/transformers
-* Tutorial 4: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
-* Tutorial 5: http://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
-* Tutorial 6: https://github.com/hanxiao/bert-as-service
+* Create new environment with Conda so you control the right version of e.g. Tensorflow (Bert-as-a-service does not work with Tensorflow 2.0)
+
+``` 
+conda create environname
+conda activate environname
+
+```
 
 Make sure the GPU works for tensorflow
 
@@ -49,18 +56,40 @@ print('Found GPU at: {}'.format(device_name))
 ```
 
 
-Other notes
+Step 2: Choose tutorial to get started
 ---
-Conda and Pip coexistence: 
-https://www.anaconda.com/using-pip-in-a-conda-environment/
 
-* Create new environment with Conda so you control the right version of e.g. Tensorflow 
+Potential tutorials, ultimately chose Bert-as-a-service as it allowed the most straightforward experiments
+* Tutorial 1: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
+* Tutorial 2: Intent classification https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
+* Tutorial 3: https://github.com/huggingface/transformers
+* Tutorial 4: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
+* Tutorial 5: http://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+* Tutorial 6: https://github.com/hanxiao/bert-as-service Our choice.
+
+Step 3: set up Bert-as-a-service
+---
+
+https://github.com/hanxiao/bert-as-service
 
 ``` 
-conda create environname
-conda activate environname
+pip install bert-serving-server  # server
+pip install bert-serving-client  # client, independent of `bert-serving-server`
+``` 
 
+Download BERT model from Google. 
+
+https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+
+ and extracted it to 
+ ```
+ C:\Users\gerhas\code\python\uncased_L-12_H-768_A-12
 ```
+
+
+
+Other notes
+---
 
 Bert-as-service exploration
 ---
