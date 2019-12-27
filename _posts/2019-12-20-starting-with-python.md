@@ -118,10 +118,63 @@ Sample collection #II: Self-improvement and general interest books
 >* The 1 Thing I Did That Changed My Entire Life For The Better
 >* The Five Qualities You Need in a Partner
 
-![Assets](/assets/images/results.jpg)
+Step 5: Writing the code
+---
+
+The code is a simple adaptation of the sample code of the Bert-as-service manual. 
+```python
+from bert_serving.client import BertClient
+import numpy as np
+prefix_q = '##### **Q:** '
+with open('C:\\Users\\gerhas\\code\\BERT-experiments\\collections.txt') as fp:
+    questions_raw = [v.replace(prefix_q, '').strip() for v in fp if v.strip() and v.startswith(prefix_q)]
+    print('%d titles of collections loaded, avg. len of %d' % (len(questions_raw), np.mean([len(d.split()) for d in questions_raw])))
+
+questions_cat = [v[:4] for v in questions_raw]
+questions = [v[5:] for v in questions_raw]
+
+count = len(questions)
+bc = BertClient()
+doc_vecs = bc.encode(questions)
+
+while True:
+    query = input('Enter title of new article:')
+    query_vec = bc.encode([query])[0]
+    # compute normalized dot product as score
+    score = np.sum(query_vec * doc_vecs, axis=1) / np.linalg.norm(doc_vecs, axis=1)
+    topk_idx = np.argsort(score)[::-1][:count]
+    count = 1
+    for idx in topk_idx:
+        print('> %s\t%s\t%s\t%s' % (count, score[idx], questions_cat[idx], questions[idx]))
+        count+=1
+print("end")
+```
+
+Step 6: Running the model
+---
+
+Now to the exciting part: **let's enter a new title, and see a ranked list of most to least similar articles in the base dataset**. We can use this ranking to determine whether the new article should be added to collection #1 (AI articles), or collection #2 (General Interest).
 
 
-![More](assets/images/results.jpg)
+***Experiment 1: New article named "neural networks"***
+
+We have a new article called "neural networks". Which collection should it belong to?
+
+> The results are stunning: entering "neural networks" leads to **all** AI related articles being ranked higher than all of the other general interest ones. Look at the ranked list here:
+
+
+![Assets](/assets/images/results2.jpg)
+
+Note that none of the existing articles had "neural networks" in them literally, so traditional TFIDF approaches would not have worked due to the small text corpus being available.
+
+***Experiment 2: New article named "How to grow your career and prosper"***
+
+In this experiment we chose a general purpose title, which clearly had nothing to do with AI.
+
+
+> The results are again very compelling: The top 4 articles based on similarity with the term are in the general purpose category. Look at the ranked list here:
+
+![Assets](/assets/images/results2.jpg)
 
 
 Other notes
