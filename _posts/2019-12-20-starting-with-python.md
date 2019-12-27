@@ -69,7 +69,7 @@ Step 2: Choose tutorial to get started
 
 Potential tutorials, ultimately chose Bert-as-a-service as it allowed the most straightforward experiments
 * Tutorial 1: [Bert Explained](https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/)
-* Tutorial 2: [Intent classification](https://towardsdatascience.com/)bert-for-dummies-step-by-step-tutorial-fb90890ffe03
+* Tutorial 2: [Intent classification](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)
 * Tutorial 3: [Huggingface Transformers](https://github.com/huggingface/transformers)
 * Tutorial 4: [BERT word embedding tutorial](http://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
 * Tutorial 6: [BERT as service](https://github.com/hanxiao/bert-as-service) Our choice.
