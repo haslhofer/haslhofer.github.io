@@ -4,7 +4,7 @@ title:  "How do I assign an article to one of two collections? Using BERT and st
 author: gerald
 categories: [ ml, python]
 tags: 
-image: assets/images/landscape3.jpg
+image: assets/images/suzhou.jpg
 ---
 
 The goal of this exercise was to explore the most recent advances in natural language processing and apply it to a real-world problem: 
