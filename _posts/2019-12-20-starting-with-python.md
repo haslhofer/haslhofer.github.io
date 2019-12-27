@@ -1,13 +1,19 @@
 ---
 layout: post
-title:  "Which collection does a new article belong to? Using BERT and NLP to match topics."
+title:  "How do I assign an article to one of two collections? Using BERT and state-of-the-art NLP"
 author: gerald
 categories: [ ml, python]
 tags: 
 image: assets/images/landscape3.jpg
 ---
 
-The goal of this exercise was to explore the most recent advances in natural language processing and apply it to a real-world problem: **when having collections of articles denoted by their headlines, which collection should a new, unseen article be added to?** The solution applied here attempts to create a similarity measure to pick the top-n most similar articles based on semantic similarity. It leverages the state-of-the art Transformer based model - [BERT](https://arxiv.org/abs/1810.04805).
+The goal of this exercise was to explore the most recent advances in natural language processing and apply it to a real-world problem: 
+
+> **When having collections of articles denoted by their headlines, which collection should a new, unseen article be added to?** 
+
+> Secondarily, **given two to-do lists, which list should a new to-do item be added to?**
+
+The solution applied here attempts to create a similarity measure to pick the top-n most similar articles based on semantic similarity. It leverages the state-of-the art Transformer based model - [BERT](https://arxiv.org/abs/1810.04805).
 
 
 Step 0: Understand what BERT is
