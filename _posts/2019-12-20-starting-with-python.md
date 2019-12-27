@@ -118,6 +118,11 @@ Sample collection #II: Self-improvement and general interest books
 >* The 1 Thing I Did That Changed My Entire Life For The Better
 >* The Five Qualities You Need in a Partner
 
+![Assets](/assets/images/results.jpg)
+
+
+![More](assets/images/results.jpg)
+
 
 Other notes
 ---
