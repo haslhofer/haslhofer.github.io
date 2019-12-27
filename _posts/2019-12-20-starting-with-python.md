@@ -2,14 +2,14 @@
 layout: post
 title:  "How do I assign an article to one of two collections? Using BERT and state-of-the-art NLP"
 author: gerald
-categories: [ ml, python]
+categories: [ ml, python, nlp]
 tags: 
 image: assets/images/suzhou.jpg
 ---
 
 The goal of this exercise was to explore the most recent advances in natural language processing and apply it to a real-world problem: 
 
-> **When having collections of articles denoted by their headlines, which collection should a new, unseen article be added to?** 
+> **When having two different collections of articles denoted by their headlines, which collection should a new, unseen article be added to?** 
 
 > Secondarily, **given two to-do lists, which list should a new to-do item be added to?**
 
@@ -22,8 +22,10 @@ Step 0: Understand what BERT is
 See the previous [blog post on NLP](https://haslhofer.github.io/nlp-introduction/), section "Transformers".
 
 
-Step 1: Environment setup on Surface Book (opted for a laptop with GPU)
+Step 1: Data science environment setup on a Surface Book 
 ---
+
+I opted for the Surface Book laptop with a reasonable GPU. Let's start with setting up the environment with Python, and a great editor (Visual Studio Code).
 
 **Understand Visual Studio Editor and Python**
 
@@ -33,7 +35,7 @@ Step 1: Environment setup on Surface Book (opted for a laptop with GPU)
 
 * Visual Studio Code [download](https://code.visualstudio.com/Download)
 * Python [installer](https://www.python.org/ftp/python/3.8.1/python-3.8.1.exe) for Python 3.8.1. Make sure that environment variables are set
-* Leverage Anaconda distribution https://www.anaconda.com/distribution/#windows
+* Leverage [Anaconda distribution](https://www.anaconda.com/distribution/#windows)
 * Create directory, start Visual Studio Code (```cd dir; code .```)
 * Select environment: CTRL+SHIFT+P,  "Python: Select Interpreter"
 * Create a terminal window: CTRL+SHIFT+P, "Terminal: Create New Integrated Terminal"
@@ -47,10 +49,9 @@ https://www.anaconda.com/using-pip-in-a-conda-environment/
 ``` 
 conda create environname
 conda activate environname
-
 ```
 
-Make sure the GPU works for tensorflow
+Make sure the GPU works for Tensorflow
 
 ```
 # verify GPU availability
@@ -67,12 +68,11 @@ Step 2: Choose tutorial to get started
 ---
 
 Potential tutorials, ultimately chose Bert-as-a-service as it allowed the most straightforward experiments
-* Tutorial 1: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
-* Tutorial 2: Intent classification https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03
-* Tutorial 3: https://github.com/huggingface/transformers
-* Tutorial 4: https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
-* Tutorial 5: http://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
-* Tutorial 6: https://github.com/hanxiao/bert-as-service Our choice.
+* Tutorial 1: [Bert Explained](https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/)
+* Tutorial 2: [Intent classification](https://towardsdatascience.com/)bert-for-dummies-step-by-step-tutorial-fb90890ffe03
+* Tutorial 3: [Huggingface Transformers](https://github.com/huggingface/transformers)
+* Tutorial 4: [BERT word embedding tutorial](http://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
+* Tutorial 6: [BERT as service](https://github.com/hanxiao/bert-as-service) Our choice.
 
 Step 3: set up Bert-as-a-service
 ---
@@ -86,7 +86,7 @@ pip install bert-serving-client  # client, independent of `bert-serving-server`
 
 Download BERT model from Google. 
 
-https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+Download location of [original model](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)
 
  and extracted it to 
  ```
@@ -101,7 +101,9 @@ bert-serving-start -model_dir c:\users\gerhas\code\python\uncased_L-12_H-768_A-1
 Step 4: Create sample dataset
 ---
 
-I chose two distinct sets of headlines: one set with articles about machine learning, one set with articles about general self-improvement articles, sourced from Medium.com and other sites.
+We create two collections, and add headlines to each one of them.
+
+I chose two distinct sets of headlines: one set with articles about machine learning, one set with articles about general self-improvement articles, sourced from Medium.com and other sites. 
 
 
 Sample collection #I: AI related topics
