@@ -176,10 +176,15 @@ In this experiment we chose a general purpose title, which clearly had nothing t
 
 ![Assets](/assets/images/results2.jpg)
 
+***Experiment 3: ToDo lists"***
 
-Other notes
----
+I create two todo lists - 
 
-Bert-as-service exploration
----
+> #1 - One around shopping with the content of "Buy milk, meat, groceries"
 
+> #2 One with travel activities "Book airplane, reserve seats, check in and remember frequent flyer miles"
+
+When entering new items, the system consistently chooses the right list to add the new item to. E.g. when selecting "flour" the system ranks the "groceries" list higher, when selecting "rental car", the system chooses "Travel".
+![Assets](/assets/images/results3.jpg)
+
+Bottom line: BERT ***appears to be a very promising approach!***
