@@ -171,7 +171,7 @@ We have a new article called "neural networks". Which collection should it belon
 > The results are stunning: entering "neural networks" leads to **all** AI related articles being ranked higher than all of the other general interest ones. Look at the ranked list here:
 
 
-![Assets](/assets/images/results2.jpg)
+![Assets](/assets/images/results.jpg)
 
 Note that none of the existing articles had "neural networks" in them literally, so traditional TFIDF approaches would not have worked due to the small text corpus being available.
 
