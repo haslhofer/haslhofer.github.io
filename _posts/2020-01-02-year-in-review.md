@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "2020 in Review"
+author: gerald
+categories: [ reflections ]
+image: assets/images/landscape2.jpg
+---
+
+2020 in Review 
+---
+
+When reflecting on a year, it's an interesting question of what comes into focus, and what stays behind, not worth mentioning or worth reflecting on. Is a year all about the big events, or the small ones that really made a difference? We've done a lot as a family in 2019 - we spent time on the beach in Hawaii with Oma joining us; we checked one thing off my personal bucket list - an amazing motorcycle trip on a BMW R1250 GS from Anchorage to Portland with Rachel in the summer, completed our vacation home in the mountains. 
+
+But what I've come to treasure most is how the little meaningful things are present in our lives: my time with Isabel when she practices the rhythms in her Cello practice with me and we're having a blast when she gets them right (or wrong). Me trail-running with Luca on the weekend and him being able to easily do a 5k (he truly has unlimited energy as long as we feed him three eggs in the morning, and snacks every other hour thereafter). Seeing Sophia during her violin recital play a hard piece so beautifully, determined, with such amazing dexterity. Or when Luca surprises all of us with his unexpected math insights or things he remembers that just stun us. The little notes they sometimes write me, and I keep them in my little metal treasure box to remind me how truly special these years are. These precious moments keep accumulating.
+
+I love the little snacks Rachel adds to my daily lunch-box she prepares for me every work day. I love opening them, knowing that she knows me; she knows the trivial things in my life, and the non-trivial ones.    
+
+We are a busy family. Rachel seemingly has unlimited energy to give to our children and people around her. Her todo list is miles long, and everything gets done, always, with no exceptions. Her advocacy for our children is the most amazing thing to watch. When Sophia needed to change classes in school, she left no stone unturned to make the impossible happen. 
+
+My professional life has changed quite a bit in 2019 - I travel for business more than I ever have, with teams now in China, India, the US, and UK. Running a geo-distributed team means early morning and late night calls, pretty much every day. I do love the diversity of talent I get to work with every day. I need to hire more engineers. 
+
+I continue to marvel at the speed at which the tech industry innovates; how much progress there is in academia in areas I'm interested in (and how accessible these advances are as long as you have a PC and internet connection). And how much opportunity there is to create and invent. 
+
+
+
