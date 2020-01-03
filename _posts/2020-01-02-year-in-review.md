@@ -51,3 +51,26 @@ _See you in 2020!_
 
 _Gerald_
 
+
+Und in Deutsch (danke Microsoft / Bing!)
+
+2019 im Rückblick
+Wenn man über ein Jahr nachdenkt, ist es eine interessante Frage, was wieder in den Fokus rückt und was zurückbleibt. Was ist erwähnenswert oder zu überdenken? Geht es in einem Jahr um die großen Ereignisse oder um die kleinen, die wirklich einen Unterschied gemacht haben? Wir haben ein paar der großen als Familie im Jahr 2019 gemacht - Zeit am Strand auf Hawaii mit Oma zu uns; Familien- und Freundesbesuche in Österreich während der Winterferien.
+
+_Bild von Almsee in Österreich_ 
+Wir haben eine Sache von meiner persönlichen Eimerliste überprüft - eine erstaunliche Motorradreise durch Alaska und den Yukon auf einem BMW R1250 GS von Anchorage nach Portland mit Rachel im Sommer; unser Ferienhaus in den Bergen zu vervollständigen.
+ 
+_Ein schöner Sonnenuntergang von der Terrasse_
+
+Aber was ich am meisten schätze, ist, wie die kleinen sinnvollen Dinge in unserem Leben präsent sind: meine Zeit mit Isabel, als sie die Rhythmen in ihrer Cello-Praxis mit mir übt und wir Spass haben, wenn sie sie richtig (oder falsch) bekommt. Ich Trail-Running mit Luca am Wochenende und er in der Lage, leicht eine 5k zu tun (er hat wirklich unbegrenzte Energie, solange wir ihn drei Eier am Morgen füttern, und Snacks jede zweite Stunde danach). Sophia während ihres Geigenabends spielen zu sehen, spielt ein hartes Stück so schön, zielstrebig, mit so erstaunlicher Geschicklichkeit.
+ Sophia bei ihrem Violinkonzert
+Oder wenn Luca uns alle mit seinen unerwarteten mathematischen Erkenntnissen oder Dingen überrascht, erinnert er sich daran, dass uns das nur betäubt. Die kleinen Notizen schreiben sie mir manchmal, und ich behalte sie in meiner kleinen Metall-Schatzkiste, um mich daran zu erinnern, wie besonders diese Jahre sind. Diese kostbaren Momente häufen sich.
+Ich liebe die kleinen Snacks, die Rachel zu meiner täglichen Lunchbox hinzufügt, die sie jeden Arbeitstag für mich vorbereitet. Ich liebe es, sie zu öffnen, wissend, dass sie mich kennt; sie kennt die trivialen Dinge in meinem Leben und die nicht-trivialen. Wir haben so ein tolles Leben zusammen - ich schätze jeden Tag mit ihr.
+Wir sind eine vielbeschäftigte Familie.
+_Sophia & Isabel als Blumenmädchen und Luca als Ringträger bei einer Hochzeit_
+Rachel scheint unbegrenzte Energie zu geben, um unseren Kindern und Menschen um sie herum zu geben. Ihre Todo-Liste ist meilenweit, und alles wird erledigt, immer, ohne Ausnahmen. Ihr Eintreten für unsere Kinder ist das Erstaunlichste, was man beobachten kann.
+Mein Berufsleben bei Microsoft hat sich 2019 stark verändert - ich reise mehr als je zuvor, mit Teams in China, Indien, den USA und Großbritannien. 
+Ein geoverteiltes Team zu führen bedeutet, dass am frühen Morgen und am späten Abend Anrufe, so ziemlich jeden Tag. Ich liebe die Vielfalt an Talenten, mit dem ich jeden Tag arbeiten kann. Ich muss mehr Ingenieure einstellen.
+Ich bewundere weiterhin die Geschwindigkeit, mit der die Tech-Industrie anerster Hand ist; wie viel Fortschritt es in der Wissenschaft in Bereichen gibt, die mich interessieren (und wie zugänglich diese Fortschritte sind, solange Sie einen PC und eine Internetverbindung haben). Und wie viel Möglichkeiten es gibt, zu schaffen und zu erfinden.
+2019 war ein gutes Jahr für uns - jeder von uns ist auf so viele Arten gewachsen, hat neue Orte besucht, neue Freunde gefunden. Wenn Sie so weit gelesen haben, vielen Dank für dein Interesse an der Familie Haslhofer!
+Wir sehen uns im Jahr 2020! Gerald
