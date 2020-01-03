@@ -27,7 +27,10 @@ We are a busy family.
 
 Rachel seemingly has unlimited energy to give to our children and people around her. Her todo list is miles long, and everything gets done, always, with no exceptions. Her advocacy for our children is the most amazing thing to watch. When Sophia needed to change classes in school, she left no stone unturned to make the impossible happen. 
 
-My professional life has changed quite a bit in 2019 - I travel for business more than I ever have, with teams now in China, India, the US, and UK. Running a geo-distributed team means early morning and late night calls, pretty much every day. I do love the diversity of talent I get to work with every day. I need to hire more engineers. 
+My professional life has changed quite a bit in 2019 - I travel for business more than I ever have, with teams now in China, India, the US, and UK. 
+![Assets](/assets/images/flight.jpg)
+
+Running a geo-distributed team means early morning and late night calls, pretty much every day. I do love the diversity of talent I get to work with every day. I need to hire more engineers. 
 
 I continue to marvel at the speed at which the tech industry innovates; how much progress there is in academia in areas I'm interested in (and how accessible these advances are as long as you have a PC and internet connection). And how much opportunity there is to create and invent. 
 
