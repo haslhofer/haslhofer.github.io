@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2020 in Review"
+title:  "2019 in Review"
 author: gerald
 categories: [ reflections ]
 image: assets/images/kids.jpg
 ---
 
-2020 in Review 
+2019 in Review 
 ---
 
 When reflecting on a year, it's an interesting question of what comes back into focus, and what stays behind. What's worth mentioning or worth reflecting on? Is a year all about the big events, or the small ones that really made a difference? We've done a few of the big ones as a family in 2019 - time on the beach in Hawaii with Oma joining us; visiting family & friends in Austria during the winter holidays.
