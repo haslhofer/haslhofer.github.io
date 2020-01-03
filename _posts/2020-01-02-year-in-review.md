@@ -3,7 +3,7 @@ layout: post
 title:  "2020 in Review"
 author: gerald
 categories: [ reflections ]
-image: assets/images/landscape2.jpg
+image: assets/images/kids.jpg
 ---
 
 2020 in Review 
