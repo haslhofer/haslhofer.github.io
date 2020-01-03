@@ -12,6 +12,7 @@ image: assets/images/kids.jpg
 When reflecting on a year, it's an interesting question of what comes back into focus, and what stays behind. What's worth mentioning or worth reflecting on? Is a year all about the big events, or the small ones that really made a difference? We've done a few of the big ones as a family in 2019 - time on the beach in Hawaii with Oma joining us; visiting family & friends in Austria during the winter holidays.
 
 ![Assets](/assets/images/almsee.jpg)
+_Picture of Almsee in Austria_
 
 Checking one thing off my personal bucket list - an amazing motorcycle trip through Alaska and the Yukon on a BMW R1250 GS from Anchorage to Portland with Rachel in the summer; completing our vacation home in the mountains. 
 
