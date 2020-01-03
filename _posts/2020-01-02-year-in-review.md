@@ -42,7 +42,7 @@ Running a geo-distributed team means early morning and late night calls, pretty 
 
 I continue to marvel at the speed at which the tech industry innovates; how much progress there is in academia in areas I'm interested in (and how accessible these advances are as long as you have a PC and internet connection). And how much opportunity there is to create and invent. 
 
-2019 has been a good year for us - each one of us has grown in so many ways, visited new places, made new friends. If you've read that far, thank you!
+2019 has been a good year for us - each one of us has grown in so many ways, visited new places, made new friends. If you've read this far, thank you for catching up with the Haslhofer family!
 
 _See you in 2020!_
 Gerald
