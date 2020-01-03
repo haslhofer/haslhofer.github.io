@@ -9,7 +9,9 @@ image: assets/images/landscape2.jpg
 2020 in Review 
 ---
 
-When reflecting on a year, it's an interesting question of what comes into focus, and what stays behind, not worth mentioning or worth reflecting on. Is a year all about the big events, or the small ones that really made a difference? We've done a lot as a family in 2019 - we spent time on the beach in Hawaii with Oma joining us; we checked one thing off my personal bucket list - an amazing motorcycle trip on a BMW R1250 GS from Anchorage to Portland with Rachel in the summer, completed our vacation home in the mountains. 
+When reflecting on a year, it's an interesting question of what comes back into focus, and what stays behind. What's worth mentioning or worth reflecting on? Is a year all about the big events, or the small ones that really made a difference? We've done a few of the big ones as a family in 2019 - time on the beach in Hawaii with Oma joining us; checking one thing off my personal bucket list - an amazing motorcycle trip through Alaska and the Yukon on a BMW R1250 GS from Anchorage to Portland with Rachel in the summer; completing our vacation home in the mountains. 
+
+![Assets](/assets/images/patio.jpg)
 
 But what I've come to treasure most is how the little meaningful things are present in our lives: my time with Isabel when she practices the rhythms in her Cello practice with me and we're having a blast when she gets them right (or wrong). Me trail-running with Luca on the weekend and him being able to easily do a 5k (he truly has unlimited energy as long as we feed him three eggs in the morning, and snacks every other hour thereafter). Seeing Sophia during her violin recital play a hard piece so beautifully, determined, with such amazing dexterity. Or when Luca surprises all of us with his unexpected math insights or things he remembers that just stun us. The little notes they sometimes write me, and I keep them in my little metal treasure box to remind me how truly special these years are. These precious moments keep accumulating.
 
