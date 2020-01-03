@@ -17,10 +17,12 @@ _Picture of Almsee in Austria_
 Checking one thing off my personal bucket list - an amazing motorcycle trip through Alaska and the Yukon on a BMW R1250 GS from Anchorage to Portland with Rachel in the summer; completing our vacation home in the mountains. 
 
 ![Assets](/assets/images/patio.jpg)
+_A nice sunset from the patio_
 
 But what I've come to treasure most is how the little meaningful things are present in our lives: my time with Isabel when she practices the rhythms in her Cello practice with me and we're having a blast when she gets them right (or wrong). Me trail-running with Luca on the weekend and him being able to easily do a 5k (he truly has unlimited energy as long as we feed him three eggs in the morning, and snacks every other hour thereafter). Seeing Sophia during her violin recital play a hard piece so beautifully, determined, with such amazing dexterity. 
 
 ![Assets](/assets/images/sophia2.jpg)
+_Sophia at her violin recital_
 
 Or when Luca surprises all of us with his unexpected math insights or things he remembers that just stun us. The little notes they sometimes write me, and I keep them in my little metal treasure box to remind me how truly special these years are. These precious moments keep accumulating.
 
@@ -29,6 +31,7 @@ I love the little snacks Rachel adds to my daily lunch-box she prepares for me e
 We are a busy family. 
 
 ![Assets](/assets/images/family2.jpg)
+_Sophia & Isabel as flower girls, and Luca as ring-bearer at a wedding_
 
 Rachel seemingly has unlimited energy to give to our children and people around her. Her todo list is miles long, and everything gets done, always, with no exceptions. Her advocacy for our children is the most amazing thing to watch.  
 
