@@ -44,5 +44,10 @@ I continue to marvel at the speed at which the tech industry innovates; how much
 
 2019 has been a good year for us - each one of us has grown in so many ways, visited new places, made new friends. If you've read this far, thank you for catching up with the Haslhofer family!
 
+![Assets](/assets/images/couple2.jpg)
+
+
 _See you in 2020!_
-Gerald
+
+_Gerald_
+
