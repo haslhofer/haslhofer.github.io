@@ -32,6 +32,7 @@ First step often is turning input words into vectors using embeddings (see. e.g.
 ## Attention 
 
 [Overview](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) and original paper ["Attention is all you need"](https://arxiv.org/pdf/1706.03762.pdf). Basic premise is that enabling the neural network to pay attention to a specific subset of hidden states leads to better results.
+[Seq2seq pay Attention to Self Attention: Part 1](https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-1-d332e85e9aad)
 
 ## Transformers
 
