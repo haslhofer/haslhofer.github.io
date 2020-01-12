@@ -77,6 +77,9 @@ BERT model is modified only slightly during the training phase (details in the g
 
 * BERT and [Semantic Similarity in Sentences](https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8d34f5a4677) on Medium  
 
+* [Sentence embeddings with BERT](https://medium.com/genei-technology/richer-sentence-embeddings-using-sentence-bert-part-i-ce1d9e0b1343). Other sentence embedding with Universal Encoder Light [Google Colab Sheet](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/semantic_similarity_with_tf_hub_universal_encoder_lite.ipynb#scrollTo=pSkjuGYoCBfU)
+
+
 **Extensions of BERT**
 
 * VideoBERT: A joint model for video and language representation learning [Sep 2019]. Uses pre-trained video ConvNet (TBD) to extract features - in their example S3D (TBD) - separable temporal convolutions to an Inception network backbone (TBD). Further reading:   
