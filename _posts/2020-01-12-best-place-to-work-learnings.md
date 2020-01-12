@@ -3,7 +3,7 @@ layout: post
 title:  "What makes a work place incredible?"
 author: gerald
 categories: [ reflections]
-image: assets/images/landscape7.jpg
+image: assets/images/gmunden.jpg
 ---
 
 Best place to work
