@@ -25,6 +25,8 @@ Vision
 
 ### Frameworks
 
+- [BOLT](https://github.com/huawei-noah/bolt)
+
 - ML Kit with Tensorflow Lite
     - Smart-reply 
         > [Sample] to try out (https://www.tensorflow.org/lite/models/smart_reply/overview)
