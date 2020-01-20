@@ -196,3 +196,11 @@ When entering new items, the system consistently chooses the right list to add t
 ![Assets](/assets/images/results3.jpg)
 
 Bottom line: BERT ***appears to be a very promising approach!***
+
+
+#Deploying Python service to Azure
+
+Django, Flask 
+
+https://azure.microsoft.com/en-us/develop/python/
+https://www.youtube.com/watch?time_continue=837&v=0Bk0dw2Ktbg&feature=emb_logo
