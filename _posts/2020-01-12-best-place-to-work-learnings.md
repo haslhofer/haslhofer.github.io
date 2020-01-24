@@ -80,3 +80,8 @@ ___
 [Why are we here?](https://hbr.org/2019/11/why-are-we-here)
 
 - **Purpose**. Relevant for our customers? Unique? Can we excel at it? Do we actually invest in it?
+
+
+Other reads:
+
+https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/

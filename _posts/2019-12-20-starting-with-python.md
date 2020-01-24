@@ -198,9 +198,16 @@ When entering new items, the system consistently chooses the right list to add t
 Bottom line: BERT ***appears to be a very promising approach!***
 
 
+
+# Appendix 
+
 #Deploying Python service to Azure
 
 Django, Flask 
 
 https://azure.microsoft.com/en-us/develop/python/
 https://www.youtube.com/watch?time_continue=837&v=0Bk0dw2Ktbg&feature=emb_logo
+
+https://cloudblogs.microsoft.com/opensource/2020/01/21/microsoft-onnx-open-source-optimizations-transformer-inference-gpu-cpu/
+
+https://github.com/onnx/tutorials/blob/master/tutorials/Inference-TensorFlow-Bert-Model-for-High-Performance-in-ONNX-Runtime.ipynb
