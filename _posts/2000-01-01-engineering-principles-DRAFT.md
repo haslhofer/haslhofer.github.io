@@ -25,9 +25,9 @@ Engineering Principles - hard-won lessons
 - 80% of investment needs to be in thedirect service of the customer
 - "What is the speed of light" of a problem
     ``` 
-    What are the actual physics 
+    What are the actual physics. Work back from there.
     ```
-
+- Go plant your flag!
 # Organizational design
 - Fix only dysfunctional orgs (because landing a new org take 6-9 months). Be steady-handed
 - Experts across the full stack needed to create a product have to be *part of the team*
@@ -39,7 +39,8 @@ Engineering Principles - hard-won lessons
     ```
     E.g. Concept of family vs. professional sports team 
     ```
-- Learning has to be part of the design
+- Learning has to be part of the design because probability of getting things right the first time is so low
+- Measure NPS consistently
 
 # Project setup
 
