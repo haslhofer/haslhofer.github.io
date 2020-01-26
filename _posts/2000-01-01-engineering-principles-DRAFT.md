@@ -22,12 +22,13 @@ Engineering Principles - hard-won lessons
 - Which metrics do we want to move? - customer or business focused
 - If I don't believe your plan you don't have a plan
 - Ruthlessly eliminate dysfunction
-- 80% of investment needs to be in thedirect service of the customer
+- 80% of investment needs to be in the direct service of the customer
 - "What is the speed of light" of a problem
     ``` 
-    What are the actual physics. Work back from there.
+    What are the *actual physics*. Work back from there.
     ```
 - Go plant your flag!
+
 # Organizational design
 - Fix only dysfunctional orgs (because landing a new org take 6-9 months). Be steady-handed
 - Experts across the full stack needed to create a product have to be *part of the team*
@@ -46,3 +47,4 @@ Engineering Principles - hard-won lessons
 
 ## Dependencies
 - A new product has to be dependency free, or only have dependencies that can be satisfied by providing a credit card (i.e. no people involved in getting a dependency commit)
+- Cross-geo dependencies within team ~= cross-team dependencies (i.e. hard)
