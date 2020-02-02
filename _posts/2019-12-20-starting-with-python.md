@@ -199,6 +199,24 @@ Bottom line: BERT ***appears to be a very promising approach!***
 
 
 
+# Updates
+
+https://www.python.org/downloads/release/python-376/
+
+
+
+https://automaticaddison.com/how-to-install-tensorflow-2-on-windows-10/
+
+conda create -n mypython3 python=3
+conda activate mypython3
+python -m pip install bert-serving-server
+
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py 
+python get-pip.py
+virtualenv --system-site-packages -p python ./venv
+.\venv\Scripts\activate
+
 # Appendix 
 
 #Deploying Python service to Azure

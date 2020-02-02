@@ -9,6 +9,21 @@ image: assets/images/gmunden.jpg
 Best place to work
 ---
 
+# Learnings from books: 
+
+## Deep work
+- Focus; repitition
+
+## Grit
+
+- 0nly 20% of employees are actively engaged in their jobs
+- Cultivate your passions --> **give choices**. 
+    - It takes time and experimentation to find your true passion (applies to early in career employees). Before hard work comes play. --> facilitate engineers discovering their interests (need forums for that)
+    - "Most people stink at the things they love". 
+- Deliberate practice - stretch goal; concentration; feedback; repitition and deliberation; **routine**
+- Purpose
+    - need to connect actions to higher purpose
+
 # Learnings from articles
 
 Article [Engineering Culture](http://www.effectiveengineer.com/blog/what-makes-a-good-engineering-culture):
