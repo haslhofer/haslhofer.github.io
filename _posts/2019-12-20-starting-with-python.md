@@ -219,6 +219,11 @@ virtualenv --system-site-packages -p python ./venv
 
 # Appendix 
 
+## sentence embedding 
+
+Quick Semantic Search using Siamese-BERT Networks” by Aneesha Bakharia https://link.medium.com/kX6QF9oqG3
+
+
 #Deploying Python service to Azure
 
 Django, Flask 
