@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Steven Johnson: Farsighted. Book summary."
+author: gerald
+categories: [ book summary ]
+image: assets/images/landscape2.jpg
+---
+
+**Steven Johnson - "Farsighted"** 
+---
+
+#### Book summary. 
+
+#### Overall usefulness: 4 stars
+
+Key premise: Outcomes with the highest uncertainty are often the ones we care about most. So we should use tools to help us decide well. 
+
+## Setting the context
+-	Good news: Complex decisions often harbor undiscovered options
+-	Bad news: Especially low-ability individuals overestimate their abilities greatly
+-	Traps: 
+    - People are generally unwilling to give up things they think belong to them
+    - When making decisions, focusing on an anchor variable only leads to bad decisions
+
+## How-to decide well
+(1) Create the map of variables (2) predict outcomes (3) make decisions against our objectives
+
+###	1 - Mapping
+- Tools: storytelling. They don’t give us ready solutions, but allow us to practice
+- To derive the most useful information from multiple sources of evidence you should always try to make these sources independent of each other before an issue is discussed, all members of the committee should be asked to write a very brief summary of their position (groups generally focus on shared information)
+- Avoid the cognitively central in-group
+- Just the presence of diverse group participants makes a difference
+- Introduce expert roles to get full-spectrum thinking
+- Ask people for their level of certainty (allows better assessment of where things really are)
+- Seek out contradictory evidence explicitly 
+- Consider more alternatives – when you find yourself in a “whether-or-not” situation, you should reframe it into a “which option” question that gives you more available paths
+
+### 2 - Predicting
+- Randomized controlled trials; ensemble forecasts
+- **Scenario planning**
+    - One where things get better
+    - One where things get worse
+    - One where things get weird
+    - Resist the fallacy of interpolation
+    - Construct multiple stories
+- **Pre-mortems** – the plan has failed. Explain why!
+- **Red-teams** – devil’s advocate
+
+### 3 - Deciding
+- Tools: Bad events table of values model
+
+### Concepts
+-	Cone of uncertainty
+-	Full-spectrum vs. narrow-band thinking
+-	Randomized controlled trials
+-	Ensemble forecasts
+
+Other interesting observations
+-	Progress of science can be measured by the speed at which we *create things to test*
