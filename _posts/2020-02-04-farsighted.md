@@ -1,10 +1,27 @@
 ---
 layout: post
-title:  "Steven Johnson: Farsighted. Book summary."
+title:  "Books read in 2020"
 author: gerald
 categories: [ book summary ]
 image: assets/images/landscape2.jpg
 ---
+
+**Miguel Grinberg: Flask Web Development, 2nd Edition**
+---
+
+Learned how to build a website with Flask and Python. Sample code is [here on github](
+https://github.com/haslhofer/embedding)
+
+**Angela Lee Duckworth - "Grit" the power of passion and perseverance** 
+---
+“Talent” is the measure of how fast your “skill” advances when you apply yourself to your chosen task. 
+- “talent x effort = skill.” 
+- “skill x effort = achievement.” 
+
+You must persevere to build your skills - life demands nonstop effort. More grit leads to more grit.
+
+Power of deliberate practice: “stretch” objective <-> thoughtful replication with continual “refinement”
+
 
 **Steven Johnson - "Farsighted"** 
 ---
