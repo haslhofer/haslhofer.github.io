@@ -12,9 +12,18 @@ image: assets/images/landscape7.jpg
 * [Google Cloud Api Demo](https://cloud.google.com/natural-language/#natural-language-api-demo) which also figures out phone # etc. You can also train custom models.
 
 ### Libraries
-- [Open source - NLTK](https://www.nltk.org/)
 
-### Data set
+Where I found the reference: [O'Reilly Deep Learning for Natural Language Processing](https://learning.oreilly.com/library/view/deep-learning-for/9781838550295/)
+
+- Libraries:
+    - [Open source - NLTK](https://www.nltk.org/). Introductory exercise here in O'Reilly book [here](https://learning.oreilly.com/library/view/deep-learning-for/9781838550295/C13783_02_Epub_Final_SZ.xhtml#_idParaDest-67)
+    - [spaCy Industrial Strength NLP](https://spacy.io/)
+    - [CoreNLP / Stanford Python library](https://stanfordnlp.github.io/stanfordnlp/)
+    - [Gensim](https://radimrehurek.com/gensim/)
+    - [Textblob](https://textblob.readthedocs.io/en/dev/api_reference.html#module-textblob.en.np_extractors)
+
+
+### Data sets
 Training data set:  https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
 
 ### Intros
