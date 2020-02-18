@@ -3,7 +3,7 @@ layout: post
 title:  "Named entity extraction (NER)"
 author: gerald
 categories: [ ml, deep learning ]
-image: assets/images/landscape7.jpg
+image: assets/images/turks.jpg
 ---
 
 
