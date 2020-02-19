@@ -197,6 +197,7 @@ When entering new items, the system consistently chooses the right list to add t
 
 Bottom line: BERT ***appears to be a very promising approach!***
 
+[Smaller Bert models](https://blog.inten.to/speeding-up-bert-5528e18bb4ea)
 
 
 # Updates
