@@ -48,7 +48,8 @@ Good introduction [O'Reilly Deep Learning for Natural Language Processing](https
 - Training data set [entity annotated corpus](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus) 
 - [Conll 2003](https://www.paperswithcode.com/sota/named-entity-recognition-ner-on-conll-2003)
 
-
+### My own prototype
+- Implementing spacy together with Flask / python, and deploying to Azure. [Live website](http://aka.ms/todosmart)
 
 
 
