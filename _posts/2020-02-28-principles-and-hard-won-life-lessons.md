@@ -28,6 +28,7 @@ Engineering Principles and other hard-won lessons
 - Go plant your flag!
 - Write down you principles
 - Work is to achieve my mission
+
 # Making decisions
 
 Expected value decisions: P(success) x reward - cost of failure
@@ -65,6 +66,12 @@ Expected value decisions: P(success) x reward - cost of failure
 - A new product has to be dependency free, or only have dependencies that can be satisfied by providing a credit card (i.e. no people involved in getting a dependency commit)
 - Cross-geo dependencies within team ~= cross-team dependencies (i.e. hard)
 
+## Engineering methodologies
+- Premortem - things that can wrong
+    - Integrating two experiences - tight coupling between components drives down overall reliability
+    - Catastrophic failure of scenario #1 does not lead to catastrophic failure of scenario #2
+
+
 # Random life lessons
 - It generally doesn't hurt to ask
 - Life is about making the most of your circumstances
@@ -72,3 +79,4 @@ Expected value decisions: P(success) x reward - cost of failure
     - When ideating, choose 3 ideas to start with [YouTube video](https://www.youtube.com/watch?v=SemHh0n19LA)
 - Don't put comfort ahead of success
 - Managing my career is 100% my own responsibility
+- It’s time to take a single self-confident leap rather than a series of incremental steps that don’t lead very far. 
