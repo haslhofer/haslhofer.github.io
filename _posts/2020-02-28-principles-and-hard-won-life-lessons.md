@@ -28,6 +28,7 @@ Engineering Principles and other hard-won lessons
 - Go plant your flag!
 - Write down you principles
 - Work is to achieve my mission
+- provide an all-in moment
 
 # Making decisions
 
@@ -80,3 +81,8 @@ Expected value decisions: P(success) x reward - cost of failure
 - Don't put comfort ahead of success
 - Managing my career is 100% my own responsibility
 - It’s time to take a single self-confident leap rather than a series of incremental steps that don’t lead very far. 
+- [The Four Agreements](https://medium.com/publishous/the-one-book-that-will-change-your-life-ca9e0f14efd) 
+    - Be impeccable with your word
+    - Don't take anything personally
+    - Don't make assumptions
+    - Always do your best 
