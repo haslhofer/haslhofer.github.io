@@ -86,3 +86,8 @@ Expected value decisions: P(success) x reward - cost of failure
     - Don't take anything personally
     - Don't make assumptions
     - Always do your best 
+
+An information diet: Kevin Scott's 70/25/5 rule
+    - Read 70% peer-reviewed long-form high quality
+    - 25% to learn something new (from new sources)
+    - 5% the rest  
