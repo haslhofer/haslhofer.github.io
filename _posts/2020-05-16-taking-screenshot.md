@@ -42,7 +42,13 @@ Instructions: [https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visua
 Option 1: PrintWindow
 -  example on [stackoverflow](https://stackoverflow.com/questions/891345/get-a-screenshot-of-a-specific-application)
 
-- using [GDI](https://www.developerfusion.com/code/4630/capture-a-screen-shot/)
+- using [GDI](https://www.developerfusion.com/code/4630/capture-a-screen-shot/) --> solution chosen
 
 add package to dot net core: 
 > dotnet add package System.Drawing.Common
+
+**Issues along the way:**
+- Monitor scaling. Fix: 
+    > call User32.SetProcessDPIAware();
+
+- Multiple monitors: Article that describes doing this in C++ [here](https://www.apriorit.com/dev-blog/193-multi-monitor-screenshot)
