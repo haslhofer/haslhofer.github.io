@@ -52,3 +52,13 @@ add package to dot net core:
     > call User32.SetProcessDPIAware();
 
 - Multiple monitors: Article that describes doing this in C++ [here](https://www.apriorit.com/dev-blog/193-multi-monitor-screenshot)
+    - [MonitorInfoEx structure](https://www.pinvoke.net/default.aspx/user32/MONITORINFO.html)
+
+
+Need to understand Windows GDI better:
+- [GDI introduction](https://docs.microsoft.com/en-us/windows/win32/gdi/multiple-display-monitors)
+*Virtual screen:* The bounding rectangle of all the monitors is the virtual screen [source](https://docs.microsoft.com/en-us/windows/win32/gdi/the-virtual-screen)
+    - Each *physical* display is represented by a monitor handle of type HMONITOR.
+    - Any function that returns a display device context (DC) normally returns a DC for the primary monitor
+    - To obtain the DC for another monitor, use the EnumDisplayMonitors function
+    - Or, you can use the *device name from the GetMonitorInfo* function to create a DC with CreateDC.
