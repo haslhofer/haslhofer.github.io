@@ -54,6 +54,9 @@ add package to dot net core:
 - Multiple monitors: Article that describes doing this in C++ [here](https://www.apriorit.com/dev-blog/193-multi-monitor-screenshot)
     - [MonitorInfoEx structure](https://www.pinvoke.net/default.aspx/user32/MONITORINFO.html)
 
+**Capturing mouse and keyboard events**
+Article to hook input: [http://joelabrahamsson.com/detecting-mouse-and-keyboard-input-with-net/](http://joelabrahamsson.com/detecting-mouse-and-keyboard-input-with-net/)
+
 
 Need to understand Windows GDI better:
 - [GDI introduction](https://docs.microsoft.com/en-us/windows/win32/gdi/multiple-display-monitors)
