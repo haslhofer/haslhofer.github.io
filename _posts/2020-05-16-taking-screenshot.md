@@ -55,7 +55,9 @@ add package to dot net core:
     - [MonitorInfoEx structure](https://www.pinvoke.net/default.aspx/user32/MONITORINFO.html)
 
 **Capturing mouse and keyboard events**
-Article to hook input: [http://joelabrahamsson.com/detecting-mouse-and-keyboard-input-with-net/](http://joelabrahamsson.com/detecting-mouse-and-keyboard-input-with-net/)
+Article to hook input: 
+- [http://joelabrahamsson.com/detecting-mouse-and-keyboard-input-with-net/](http://joelabrahamsson.com/detecting-mouse-and-keyboard-input-with-net/)
+- [https://stackoverflow.com/questions/7497024/how-to-detect-mouse-clicks](https://stackoverflow.com/questions/7497024/how-to-detect-mouse-clicks)
 
 
 Need to understand Windows GDI better:
