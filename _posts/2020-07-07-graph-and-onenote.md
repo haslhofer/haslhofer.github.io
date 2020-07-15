@@ -58,7 +58,12 @@ Needed to make changes to not only enable device auth flow:
 
 >  var result = await _msalClient.AcquireTokenInteractive(_scopes).ExecuteAsync();
 
-Also changed the scopes to allow AAD account to work
+Also changed the scopes to allow AAD account to work. Didn't success
+
+# Attempt 3: use classis Visual Studio and regular .Net
+
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-windows-desktop
 
 # Litter
 
