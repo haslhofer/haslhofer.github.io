@@ -62,8 +62,13 @@ Also changed the scopes to allow AAD account to work. Didn't success
 
 # Attempt 3: use classis Visual Studio and regular .Net
 
-
+Sample "just works"
 https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-windows-desktop
+
+Where do I configure access permissions for "a25fca57-04c5-478f-b06d-a233e7f05f99"
+https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ManagedAppMenuBlade/Overview/appId/a25fca57-04c5-478f-b06d-a233e7f05f99/objectId/8b724205-f5b9-4fe1-85c0-ac854d41226a 
+Or better:
+https://aad.portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade 
 
 # Litter
 
