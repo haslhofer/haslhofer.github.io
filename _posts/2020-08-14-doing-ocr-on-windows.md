@@ -21,6 +21,6 @@ https://tesseract.patagames.com/help/html/T_Patagames_Ocr_Enums_PageSegMode.htm
 
 # Face identification
 
-ONXX runtime and models?
+ONNX runtime and models?
 
 https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/object-detection-onnx 
