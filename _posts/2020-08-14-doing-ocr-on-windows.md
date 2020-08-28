@@ -24,3 +24,10 @@ https://tesseract.patagames.com/help/html/T_Patagames_Ocr_Enums_PageSegMode.htm
 ONNX runtime and models?
 
 https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/object-detection-onnx 
+
+
+Or use UWP APIs?
+Call UWP APIs from DotNet Core:
+https://robertwray.co.uk/blog/using-windows-10-uwp-apis-from-a-net-core-application
+
+
