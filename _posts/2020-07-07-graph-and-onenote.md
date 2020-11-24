@@ -74,8 +74,12 @@ https://aad.portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsLis
 
 https://github.com/Azure-Samples/active-directory-dotnet-desktop-msgraph-v2
 
-
-
-
 https://developer.microsoft.com/en-us/graph/blogs/30daysmsgraph-day-25-use-case-create-a-onenote-notebook/
 
+# Attempt November
+
+Found test cases:
+https://github.com/microsoftgraph/msgraph-sdk-dotnet/blob/9304c33cfc771fe099ad00713899e6ff338781a7/tests/Microsoft.Graph.Test/Requests/Functional/OneNoteTests.cs
+
+Found specific issue:
+https://stackoverflow.com/questions/47677918/patch-existing-onenote-page-by-appending-binary-image-content

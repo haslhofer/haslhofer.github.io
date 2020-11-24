@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Named entity recognition explorations"
+author: gerald
+categories: [ experiments]
+image: assets/images/landscape7.jpg
+---
+
+Demo with spacy: https://www.geeksforgeeks.org/python-named-entity-recognition-ner-using-spacy/
