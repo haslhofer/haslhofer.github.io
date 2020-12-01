@@ -16,3 +16,8 @@ image: assets/images/landscape7.jpg
 - Adding pages to OneNote (including inline base64 encoded images embedded in HTML to avoid having to use multi-part messages which never worked)
 - Creating c# structure based on Json payload. [source](https://json2csharp.com/)
 
+Future:
+
+Extract summaries:
+- https://pypi.org/project/bert-extractive-summarizer/
+
