@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Building an app to observe the screen"
+author: gerald
+categories: [ experiments]
+image: assets/images/landscape7.jpg
+---
+
+Deploy app: https://docs.microsoft.com/en-us/dotnet/core/deploying/
+
+Create docker container with python: https://medium.com/@abdul.the.coder/how-to-deploy-a-containerised-python-web-application-with-docker-flask-and-uwsgi-8862a08bd5df
+
+Demo with spacy: https://www.geeksforgeeks.org/python-named-entity-recognition-ner-using-spacy/
+
+Classify categorieson Google Cloud
+- https://cloud.google.com/natural-language/docs/classify-text-tutorial
+- https://github.com/GoogleCloudPlatform/dotnet-docs-samples/tree/master/language/api/Analyze
+
+Looking at layout LM
+
+# Installing detectron (from facebookresearch)
+
+Installation:
+- https://detectron2.readthedocs.io/tutorials/install.html
+- python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+
+Detectron FB collab
+https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=ZyAvNCJMmvFF
+
+
+# Install layourparser
+https://github.com/Layout-Parser/layout-parser
+
+# Deep layoutparser example
+https://github.com/Layout-Parser/layout-parser/blob/master/examples/Deep%20Layout%20Parsing.ipynb
+
+Largely unsuccessful (though I did get it to run on Google colab)
+
+# Deploying sentence embedding to the cloud
+
+https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-app-service-on-linux-01
+
+[imageassets](images/landscape7.jpg)

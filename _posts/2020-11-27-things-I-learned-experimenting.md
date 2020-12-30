@@ -21,3 +21,15 @@ Future:
 Extract summaries:
 - https://pypi.org/project/bert-extractive-summarizer/
 
+Layout analysis:
+- https://github.com/Layout-Parser/layout-parser/blob/master/examples/Deep%20Layout%20Parsing.ipynb 
+    - based on Facebook's Detectron framework
+    - needs MS c++ 14+
+
+- https://dhsegment.readthedocs.io/en/latest/start/annotating.html
+- https://huggingface.co/transformers/model_doc/layoutlm.html based on https://arxiv.org/pdf/1912.13318v5.pdf 
+
+
+Other sources and relative importance:
+- annotated screens: https://github.com/ibm-aur-nlp/PubLayNet
+- projects about document layout analysis : https://github.com/topics/document-layout-analysis 
