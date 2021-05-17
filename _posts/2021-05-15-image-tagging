@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Image tagging standards for AI"
+author: gerald
+categories: [ ml, deep learning ]
+image: assets/images/landscape7.jpg
+---
+
+Articles: https://towardsdatascience.com/image-data-labelling-and-annotation-everything-you-need-to-know-86ede6c684b1
+
+tool: https://github.com/tzutalin/labelImg
