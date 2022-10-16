@@ -1,7 +1,15 @@
-Good things for the future
+---
+layout: post
+title:  "Good things for the future"
+author: gerald
+categories: [ pivot ]
+image: assets/images/landscape7.jpg
+---
 
-Sports
+# Good things for the future
 
-AI
+## Sports
 
-Businesses
+## AI
+
+## Businesses
