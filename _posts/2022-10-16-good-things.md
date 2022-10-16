@@ -14,4 +14,8 @@ image: assets/images/landscape7.jpg
 
 ## AI
 
+## Tools
+All the things you can do with Blender: Grease pencil
+https://www.youtube.com/watch?v=VPWfTg-kYJA&t=198s
+
 ## Businesses
