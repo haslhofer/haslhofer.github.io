@@ -10,6 +10,8 @@ image: assets/images/landscape7.jpg
 
 ## Sports
 
+[Windsurfing on Corfu](https://www.youtube.com/watch?v=C4OqRcFbxF8&t=51s)
+
 ## AI
 
 ## Businesses
