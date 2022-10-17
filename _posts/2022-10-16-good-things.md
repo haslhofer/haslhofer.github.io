@@ -17,5 +17,7 @@ image: assets/images/landscape7.jpg
 ## Tools
 All the things you can do with Blender: Grease pencil
 https://www.youtube.com/watch?v=VPWfTg-kYJA&t=198s
+3 D animation
+https://www.youtube.com/watch?v=nsqeZV9mKTc
 
 ## Businesses
