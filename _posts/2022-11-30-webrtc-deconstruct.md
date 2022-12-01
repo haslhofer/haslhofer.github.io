@@ -30,7 +30,7 @@ async def index(request):
 ```
 
 Add to main part of python code
-
+ 
 ```
 app = web.Application()
     ...
@@ -68,6 +68,8 @@ navigator.mediaDevices.getUserMedia({
 ```
 
 When user clicks "start" button:
+
+create RTC connection via Stun server
 ```
 	var config = {
 		sdpSemantics: 'unified-plan',
@@ -75,4 +77,25 @@ When user clicks "start" button:
 	};
 
 	pc = new RTCPeerConnection(config);
+
 ```
+Then set the web cam stream to be transmitted onto the PeerConnction
+
+```
+
+    localVideo.srcObject.getVideoTracks().forEach(track => {
+		pc.addTrack(track);
+	});
+```
+
+Add event, if triggered, assigns the stream coming from the server:
+
+```
+pc.addEventListener('track', function (evt) {
+		console.log("receive server video");
+		if (evt.track.kind == 'video') {
+			serverVideo.srcObject = evt.streams[0];
+		}
+	});
+```
+Start negotiation, then post the sdp/type to the webserver
