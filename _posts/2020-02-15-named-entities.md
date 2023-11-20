@@ -51,7 +51,7 @@ Good introduction [O'Reilly Deep Learning for Natural Language Processing](https
 ### My own prototype
 - Implementing spacy together with Flask / python, and deploying to Azure. [Live website](http://aka.ms/todosmart)
 
-# Continuation 11/19/2023 with LLMs
+### Continuation 11/19/2023 with LLMs
 
 - [Spacy LLM](https://github.com/explosion/spacy-llm/tree/main/usage_examples/ner_dolly)
 
