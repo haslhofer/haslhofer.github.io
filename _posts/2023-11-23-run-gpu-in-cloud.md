@@ -14,3 +14,5 @@ ngrok config add-authtoken <token>
 
 ### Universal NER
 https://github.com/universal-ner/universal-ner
+
+http://localhost:5000/process_data?param1=value1&param2=value2
